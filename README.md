@@ -63,6 +63,6 @@ Contributions, issues, and feature requests are welcome!
 
 ## Get in Touch
 
-<b>Email: </b> tech@allanswebwork.info <br/>
-<b>LinkedIn: </b> [https://www.linkedin.com/in/allanhillman/](https://www.linkedin.com/in/allanhillman/)  <br/>
-<b>Website: </b> [https://allanhillman.com](https://allanhillman.com/)
+<b>Email: </b> subashprasanna66@gmail.com <br/>
+
+
